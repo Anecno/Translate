@@ -16,4 +16,4 @@ is the priority.
 
    As the repository description suggests, this project is best suited to users who have enough time to weigh words carefully. It is also better suited to users who are fluent in at least one foreign language and do not need to rely on the skill as a black-box translator. Multilingual input and the workflow outputs can both preserve traces of human external entropy, helping calibrate the direction of translation. In one past project, reading the divergent-analysis output allowed me to manually synthesize the translation I wanted most.
 
-5. Reference standards, research directions, and reviewed GitHub projects are listed in [`translate-v2/REFERENCES.md`](./translate-v2/REFERENCES.md).
+5. Reference standards, research directions, and reviewed GitHub projects are listed in [`translate-v2/REFERENCES.md`](./translate-v2/REFERENCES.md). Dictionary references used in NotebookLM are listed in [`Dictionary-References.md`](./Dictionary-References.md).
